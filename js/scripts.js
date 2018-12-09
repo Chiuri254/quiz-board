@@ -1,3 +1,18 @@
+var score = 0; //set score to 0
+var total = 6; //Total number of questions
+var point = 1; //Points per correct answer
+var highest =total * point ;
+// initialiser
+function init(){
+    //set correct answers 
+    sessionStorage.setItem('a1','c');
+    sessionStorage.setItem('a2','c');
+    sessionStorage.setItem('a3','c');
+    sessionStorage.setItem('a4','c');
+    sessionStorage.setItem('a5','c');
+    sessionStorage.setItem('a6','c');
+}
+
 $(document).ready(function(){
     // hide all questions
     $('.questionForm').hide();
@@ -41,3 +56,8 @@ $(document).ready(function(){
 
     });
 });
+// Add event listener
+window.addEventListener('load');
+window.addEventListener('init');
+window.addEventListener('false');
+
