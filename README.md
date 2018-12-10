@@ -1,20 +1,21 @@
-#Quiz Board
 
-##Authors Information
+# Quiz Board
+
+## Authors Information
 Joseph Chiuri
-##Project Description
+## Project Description
 
-##Specification
+## Specification
 
-##Bugs
+## Bugs
 There are currently no bugs in this program.
-##Technologies
+## Technologies
 1 .Html
 2 .Css
 3 .Javascript
 
 
-##Link to Project
+## Link to Project
 
 ## License
 [MIT] Copyright (c)[2018][joseph chiuri] permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
