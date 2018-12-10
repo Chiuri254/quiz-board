@@ -6,12 +6,12 @@ var highest = total * points;
 //Initializer
 function init() {
 	//set correct answers
-	sessionStorage.setItem('a1', 'c');
-	sessionStorage.setItem('a2', 'b');
-	sessionStorage.setItem('a3', 'b');
-	sessionStorage.setItem('a4', 'b');
-	sessionStorage.setItem('a5', 'b');
-	sessionStorage.setItem('a6', 'b');
+	sessionStorage.setItem('a1','c');
+	sessionStorage.setItem('a2','b');
+	sessionStorage.setItem('a3','b');
+	sessionStorage.setItem('a4','b');
+	sessionStorage.setItem('a5','b');
+	sessionStorage.setItem('a6','b');
 }
 $(document).ready(function () {
 	//Hide all questions

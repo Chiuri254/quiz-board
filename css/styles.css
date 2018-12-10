@@ -2,7 +2,7 @@ body {
     font-family: arial;
     font-size: 15px;
     line-height: 1.6cm;
-    background: #f4f4f4;
+    background: #d6a4a4;
 }
 
 li {
@@ -25,7 +25,7 @@ li {
 }
 
 header {
-    background: #1f88f4;
+    background: #0a0a0a;
     color: #ffffff;
     padding: 5px 10px;
     overflow: auto;
@@ -33,7 +33,7 @@ header {
 }
 
 footer {
-    background: #1f88f4;
+    background: #050508;
     color: #ffffff;
     padding: 5px 10px;
     overflow: auto;
