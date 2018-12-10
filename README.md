@@ -10,9 +10,9 @@ Joseph Chiuri
 ## Bugs
 There are currently no bugs in this program.
 ## Technologies
-1 .Html
-2 .Css
-3 .Javascript
+1. Html
+2. Css
+3. Javascript
 
 
 ## Link to Project
