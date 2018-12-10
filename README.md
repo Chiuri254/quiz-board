@@ -8,8 +8,8 @@ Joseph Chiuri
 This is an online quiz website that hosts questions on JavaScript, allowing the user to check their answers in radio buttons and in the end one is given an output of their score.
 
 ## Project set-up instructions
-To start using this project use the following commands:
 
+To start using this project use the following commands:
 git clone https://github.com/Chiuri254/quiz-board.git
 cd js-quiz
 code .
