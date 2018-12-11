@@ -6,12 +6,12 @@ var highest = total * point;
 // initialiser
 function init() {
     //set correct answers 
-    sessionStorage.setItem('a1','c');
-    sessionStorage.setItem('a2','a');
-    sessionStorage.setItem('a3','d');
-    sessionStorage.setItem('a4','b');
-    sessionStorage.setItem('a5','a');
-    sessionStorage.setItem('a6','d');
+    sessionStorage.setItem('a1', 'c');
+    sessionStorage.setItem('a2', 'a');
+    sessionStorage.setItem('a3', 'd');
+    sessionStorage.setItem('a4', 'b');
+    sessionStorage.setItem('a5', 'a');
+    sessionStorage.setItem('a6', 'd');
 }
 //FRONT-END LOGIC
 $(document).ready(function () {

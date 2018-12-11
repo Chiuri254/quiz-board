@@ -18,6 +18,14 @@ code .
 atom . (This is if atom is your preferred text editor)
 ```
 
+## BDD
+
+```python
+Input user details
+Use buttons to take test
+Submit test and get score
+```
+
 ## Bugs
 
 There are currently no bugs in this program.
